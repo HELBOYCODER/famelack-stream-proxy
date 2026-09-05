@@ -1,0 +1,10 @@
+{
+  "name": "famelack-stream-proxy",
+  "version": "1.0.0",
+  "description": "Free HLS and Live Stream Proxy for Famelack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
